@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.highlight{
+    color: lightsalmon;
+}
+.highlight-1{
+    color: #222831;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+    font-size: 20px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right: 5%;
+    height: 80%;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: 700;
+}
+#about-me{
+    padding-bottom: 200px;
+    padding-top: 60px;
+   
+}
+#special-1{
+    padding-bottom: 100px;
+    
+}
+#s-1{
+    text-align: center;
+}
+#si{
+    text-align: center;
+}
+#b1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contact-area{
+    background-image: url(images/button.png);
+    background-repeat: no-repeat;
+    background-size: 906px 225px;
+    margin-left: 15%;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    margin-top: 50px;
+}
+.one-third img{
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+.one-third{
+    text-align: center;
+    box-shadow: 10px 10px 40px #f8f9fc;
+    border-radius: 20px;
+    padding: 10px;
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+    height: 65%;
+    background-color: white;
+}
+.box-area{
+    height: 600px;
+    background-color: #f8f9fc;
+}
+#c1{
+    font-size: 50px;
+}
+#c2{
+    font-size: 20px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-left: 300px;
+}
